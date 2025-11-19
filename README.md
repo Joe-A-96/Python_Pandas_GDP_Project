@@ -18,6 +18,7 @@ Based on the GDP per Capita Analysis Notebook
   - `df.shape`  
   - `df.columns`  
 - Understanding dataset structure, column names, and data types  
+<img width="881" height="256" alt="image" src="https://github.com/user-attachments/assets/955f8330-22fd-4224-b60e-df606f5f096f" />
 
 ---
 
@@ -27,6 +28,7 @@ Based on the GDP per Capita Analysis Notebook
 - Removing missing values using `df.dropna()`  
 - Using `value_counts()` to inspect categorical inconsistencies  
 - Identifying columns stored as incorrect data types  
+<img width="244" height="341" alt="image" src="https://github.com/user-attachments/assets/a5e3aa70-e7d9-4a69-97ca-7e424df7cee5" />
 
 ---
 
@@ -47,6 +49,7 @@ Based on the GDP per Capita Analysis Notebook
 - Exploring questions such as:  
   - Why is a column stored as an object?  
   - Which regions or countries have the highest GDP per capita?  
+<img width="543" height="315" alt="image" src="https://github.com/user-attachments/assets/8c58096c-d149-4042-ad59-ebc853bb54fa" />
 
 ---
 
@@ -56,6 +59,7 @@ Based on the GDP per Capita Analysis Notebook
   - Histograms  
   - Boxplots  
 - Investigating extreme or unusual values within population or GDP estimates  
+<img width="862" height="741" alt="image" src="https://github.com/user-attachments/assets/fb7596ba-76dd-4904-b641-8c642ed6d58a" />
 
 ---
 
